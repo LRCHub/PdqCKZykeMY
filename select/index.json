@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "希望的プリズム",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2026-01-03T06:03:18.329937Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "希望的プリズム",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_希望的プリズム_DOLLCHESTRA.txt"
+    }
+  ]
+}
